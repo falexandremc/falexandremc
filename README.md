@@ -45,10 +45,3 @@
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 ---
-
-
-
-### 📱 Social
-<div> 
-  <a href="https://www.linkedin.com/in/alexandre-mendon%C3%A7a-012349157" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
