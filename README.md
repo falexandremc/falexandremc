@@ -1,9 +1,9 @@
-## 👤 Alexandre Mendonça
+# 🪪 Alexandre Mendonça
 ### WEB/Desktop developer based in Northeast of Brazil (CEARÁ) 🇧🇷
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## **Languages & Frameworks 💎**
+### **Languages & Frameworks 💎**
 ![PHP](https://img.shields.io/badge/-PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tools
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-F1553A?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-## 📦 CMS & E-commerce  
+### 📦 CMS & E-commerce  
 ![WordPress](https://img.shields.io/badge/WordPress-23282d?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
@@ -48,7 +48,7 @@
 
 
 
-## 📱 Social
+### 📱 Social
 <div> 
   <a href="https://www.linkedin.com/in/alexandre-mendon%C3%A7a-012349157" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
