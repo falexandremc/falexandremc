@@ -45,3 +45,17 @@
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 ---
+
+### 📌 Pinned
+
+<p align="left">
+  <a href="https://github.com/falexandremc/digital-valley-abrace" target="_blank">
+    <img src="https://github.com/falexandremc/falexandremc/raw/main/imagens/card-1.png" width="45%" />
+  </a>
+  <a href="https://github.com/falexandremc/digital-valley-chronos" target="_blank">
+    <img src="https://github.com/falexandremc/falexandremc/raw/main/imagens/card-2.png" width="45%" />
+  </a>
+  <a href="https://github.com/falexandremc/gedi" target="_blank">
+    <img src="https://github.com/falexandremc/falexandremc/raw/main/imagens/card-3.png" width="45%" />
+  </a>
+</p>
